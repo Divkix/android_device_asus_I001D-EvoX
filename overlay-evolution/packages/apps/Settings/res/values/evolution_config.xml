@@ -20,4 +20,13 @@
          3 = right side
     -->
     <integer name="config_fingerprintSensorLocation">1</integer>
+
+    <!-- Whether to show min/max refresh rate in display settings -->
+    <bool name="config_show_refresh_rate_controls">true</bool>
+
+    <!-- Adaptive Charging -->
+    <bool name="config_supportAdaptiveCharging">true</bool>
+
+     <!-- Add Maintainer Name -->
+    <string name="build_maintainer_summary">Divkix</string>
 </resources>

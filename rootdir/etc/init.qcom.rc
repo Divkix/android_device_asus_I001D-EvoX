@@ -26,6 +26,5 @@
 #
 
 on boot
-    # Chown node for Smart_Charging
-    chown system system /sys/class/power_supply/battery/input_suspend
+    # Chown node for Smart Charging
     chmod 0666 /sys/class/power_supply/battery/input_suspend

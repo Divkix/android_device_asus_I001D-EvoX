@@ -25,7 +25,7 @@
     <bool name="config_show_refresh_rate_controls">true</bool>
 
     <!-- Adaptive Charging -->
-    <bool name="config_supportAdaptiveCharging">true</bool>
+    <bool name="config_supportAdaptiveCharging">false</bool>
 
      <!-- Add Maintainer Name -->
     <string name="build_maintainer_summary">Divkix</string>
